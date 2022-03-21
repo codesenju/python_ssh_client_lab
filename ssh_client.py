@@ -3,7 +3,7 @@ import paramiko
 hostname = 'localhost'
 username = 'codesenju'
 password = 'passw0rd'
-PORT = '222'
+PORT = '2222'
 ssh = paramiko.SSHClient()
 
 
